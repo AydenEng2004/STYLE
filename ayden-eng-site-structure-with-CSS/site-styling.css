@@ -1,0 +1,384 @@
+/* Logo */
+.logo{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 7%;
+   padding-bottom: 2%;
+}
+
+/* Project links */
+nav>section#projects{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+        font-size: 250%;
+        text-align: center;
+        padding-top: 0px;
+       padding-left: 80px;
+       padding-right: 80px;
+       padding-bottom: 40px;
+       color: white;
+        a:link{ text-decoration: none; color:rgb(0, 0, 0); 
+        }
+        a:hover {text-decoration: none; color:rgb(0, 0, 0); 
+        }
+        a:active {text-decoration: none; color:rgb(0, 0, 0); 
+        }
+       a:visited{ text-decoration: none; color:rgb(0, 0, 0); 
+       }
+    text-decoration: none; 
+   }
+/* About Link */
+   nav>section#about{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+        font-size: 250%;
+        text-align: center;
+        padding-top: 0px;
+       padding-left: 80px;
+       padding-right: 80px;
+       padding-bottom: 40px;
+        a:link{ text-decoration: none; color:rgb(0, 0, 0); 
+        }
+        a:hover {text-decoration: none; color:rgb(0, 0, 0); 
+        }
+        a:active {text-decoration: none; color:rgb(0, 0, 0); 
+        }
+       a:visited{ text-decoration: none; color:rgb(0, 0, 0); 
+       }
+    text-decoration: none; 
+   }
+   /* Contact Link */
+   nav>section#contact{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+        font-size: 250%;
+        text-align: center;
+        padding-top: 0px;
+       padding-left: 80px;
+       padding-right: 80px;
+       padding-bottom: 40px;
+        a:link{ text-decoration: none; color:rgb(0, 0, 0); 
+        }
+        a:hover {text-decoration: none; color:rgb(0, 0, 0); 
+        }
+        a:active {text-decoration: none; color:rgb(0, 0, 0); 
+        }
+       a:visited{ text-decoration: none; color:rgb(0, 0, 0); 
+       }
+    text-decoration: none; 
+   }
+ /* Centered Nav Menu */
+nav{
+    display: block;
+    align-self: center;
+    text-align: center;
+}
+   /* Subtitle */
+section#Subtitle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 550px;
+    background-image: url(Images/NYC1.jpeg);   
+    background-size: 1987px;
+         
+    }
+/* Projects */
+section#projects,h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 210%;
+    font-weight: 500;
+    text-align: center;
+    padding: 2%;
+}
+
+/* Image 1 */
+section#pic1{
+    font-family: "aaux-next", sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    text-align: center; 
+    display: inline-block;
+    padding-bottom: 1%;
+}
+/* Image 2 */
+section#pic2{
+    font-family: "aaux-next", sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+    display: inline-block;
+    padding-bottom: 1%;
+}
+/* Image 3 */
+section#pic3{
+    font-family: "aaux-next", sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+    display: inline-block;
+    padding-bottom: 1%;
+  }
+/* Image 4 */
+section#pic4{
+    font-family: "aaux-next", sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+    display: inline-block;
+    padding-bottom: 1%;
+}
+/* Image 5 */
+section#pic5{
+    font-family: "aaux-next", sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+    display: inline-block;
+    padding-bottom: 1%;
+}
+/* Image 6 */
+section#pic6{
+    font-family: "aaux-next", sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+    display: inline-block;
+    padding-bottom: 1%;
+}
+/* Image 7 */
+section#pic7{
+    font-family: "aaux-next", sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+    display: inline-block;
+    padding-bottom: 1%;
+}
+/* Image 8 */
+section#pic8{
+    font-family: "aaux-next", sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+    display: inline-block;
+    padding-bottom: 1%;
+}
+/* Image 9 */
+section#pic9{
+    font-family: "aaux-next", sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+    display: inline-block;
+    padding-bottom: 1%;
+}
+div, projects{
+    a:link{ text-decoration: none; color:rgb(0, 0, 0); 
+    }
+    a:hover {text-decoration: none; color:rgb(0, 0, 0); 
+    }
+    a:active {text-decoration: none; color:rgb(0, 0, 0); 
+    }
+   a:visited{ text-decoration: none; color:rgb(0, 0, 0); 
+   }
+}
+
+div.BG3{
+    display: block;
+    padding-bottom: 700px;
+    background-image: url(Images/Train1.jpg);
+    background-size: 1300px;
+   }
+
+/* About */
+article h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 450%;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 1.5%;
+     }
+
+article p{
+    font-family: "futura-pt", sans-serif;
+    font-weight: 50;
+    font-style: thin;
+    font-size: 125%;
+    text-align: center;
+    padding-bottom: 80px;
+   }
+
+   div.BG2{
+    display: block;
+    padding-bottom: 700px;
+    background-image: url(Images/Road1.jpg);
+    background-size: 1300px;
+   }
+
+/* Contact */
+Section#Contact h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 450%;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 30px;
+    
+   }
+   
+div.contact{
+    text-align: left;
+}
+
+
+/* Firstname */
+   div.firstname{
+    display: inline-block;
+    font-family: "futura-pt", sans-serif;
+    font-size: 150%;
+    font-weight: 500;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 400px;
+          
+    }
+    
+    /* Lastname */
+    div.lastname{
+    display: inline-block;
+    font-family: "futura-pt", sans-serif;
+    font-size: 150%;
+    font-weight: 500;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 400px;
+    padding-top: 30px;
+   }
+   
+      /* Email */
+   div.email{
+    display: inline-block;
+    font-family: "futura-pt", sans-serif;
+    font-size: 150%;
+    font-weight: 500;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 400px;
+    padding-top: 30px;
+   }
+   /* Phone */
+   div.phone{
+    display: inline-block;
+    font-family: "futura-pt", sans-serif;
+    font-size: 150%;
+    font-weight: 500;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 400px;
+    padding-top: 30px;
+   }
+   /* Message */
+   div.message{
+    display: inline-block;
+    font-family: "futura-pt", sans-serif;
+    font-size: 150%;
+    font-weight: 500;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 400px;
+    padding-top: 30px;
+   }
+
+   div.box{
+    width: 200px;
+    height: 7px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 255px;
+    padding-bottom: 40px;
+    }
+
+    div.box1{
+        width: 200px;
+        height: 7px;
+        background-color: rgb(255, 255, 255);
+        border: 2px solid rgb(0, 0, 0);
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 255px;
+        padding-bottom: 40px;
+        margin-bottom: 60px;
+        
+    }
+
+
+
+Footer{
+    padding-top: 30px;
+    font-family: "futura-pt", sans-serif;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    a:link{ text-decoration: none; color:rgb(255, 255, 255); 
+    }
+    a:hover {text-decoration: none; color:rgb(255, 255, 255); 
+    }
+    a:active {text-decoration: none; color:rgb(255, 255, 255); 
+    }
+   a:visited{ text-decoration: none; color:rgb(255, 255, 255); 
+   }
+}
+
+section#Proj1>h1{
+    display: inline-block;
+    font-family: "aaux-next", sans-serif;
+  font-variant: bold;
+    text-align: center;
+    padding-left: 26.5%;
+    color: rgb(0, 0, 0);
+ }
+
+ section#Details>p{
+    font-family: "futura-pt", sans-serif;
+    font-size: 125%;
+    padding-left: 26.5%;
+    padding-bottom: 2%;
+  
+    }
+ section#heroimage{
+   text-align: center;
+   padding-bottom: 7%;
+ }
+
+ section#nextproject{
+    font-family: "futura-pt", sans-serif;
+    display: inline-block;
+    font-size: 155%;
+    text-align: right;
+    padding-left: 67%;
+    a:link{ text-decoration: none; color:rgb(0, 0, 0); 
+    }
+    a:hover {text-decoration: none; color:rgb(0, 0, 0); 
+    }
+    a:active {text-decoration: none; color:rgb(0, 0, 0); 
+    }
+   a:visited{ text-decoration: none; color:rgb(0, 0, 0); 
+   }
+   padding-bottom: 3%;
+ }
+
+ div.BG1{
+background-color: rgb(255, 255, 255);
+    
+ }
